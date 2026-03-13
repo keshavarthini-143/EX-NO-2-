@@ -36,7 +36,7 @@ STEP-5: Display the obtained cipher text.
 
 ## Program:
 
-```
+```py
 #include<stdio.h>
 #include<string.h>
 int main()
